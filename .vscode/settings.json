@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "coroutine_int.h": "c",
+        "stdint.h": "c",
+        "context.h": "c",
+        "coroutine.h": "c",
+        "rbtree.h": "c",
+        "assert.h": "c"
+    }
+}
